@@ -1,1 +1,1 @@
-# uav-behavioral-trust-model
+# The code and trained model for the UAV behavioral trust evaluation system will be released after the associated paper is officially published.Thank you for your interest. Please check back soon or reach out for further details.
